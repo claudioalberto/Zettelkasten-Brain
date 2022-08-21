@@ -1,0 +1,10 @@
+{
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
+}

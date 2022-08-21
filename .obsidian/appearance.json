@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Primary",
+  "theme": "obsidian",
+  "translucency": true,
+  "baseFontSize": 14,
+  "monospaceFontFamily": "Courier,Avenir Next Condensed,Andale Mono,Courier New",
+  "textFontFamily": "Courier",
+  "interfaceFontFamily": "Source Code Pro,Futura,Courier,Courier New"
+}

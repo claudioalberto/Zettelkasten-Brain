@@ -1,0 +1,17 @@
+{
+  "prefix": ">",
+  "postfix": "",
+  "linkEndVerse": false,
+  "verseOffset": 0,
+  "verseHeadingLevel": 6,
+  "useInvisibleLinks": true,
+  "newLines": false,
+  "eachVersePrefix": "",
+  "oneVerseNotation": ".",
+  "multipleVersesNotation": ",",
+  "verifyFilesWhenLinking": true,
+  "versePrefix": "",
+  "linkTypePreset": "Basic",
+  "newLinePreset": true,
+  "linkSeparator": "######"
+}

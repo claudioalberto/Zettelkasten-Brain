@@ -1,0 +1,27 @@
+{
+  "enabledButtons": [
+    {
+      "id": "app:go-back",
+      "icon": "left-arrow-with-tail",
+      "name": "Navigate back",
+      "showButtons": "both"
+    },
+    {
+      "id": "switcher:open",
+      "icon": "create-new",
+      "name": "Quick switcher: Open quick switcher",
+      "showButtons": "both"
+    },
+    {
+      "id": "app:reload",
+      "icon": "reset",
+      "name": "Reload app without saving",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": true,
+  "titleLeft": [],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}
