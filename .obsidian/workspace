@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Lição 4 - Segredo Revelado - EBD Adolescentes.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,23 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "93c090d10bf078df",
+    "id": "81cc77ae4a9318f8",
     "type": "split",
     "children": [
       {
-        "id": "318ac331dddfb575",
+        "id": "dea91d80ebcd9c1a",
         "type": "tabs",
         "children": [
           {
-            "id": "faeac81d10eb8421",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "596730c67f25bd25",
+            "id": "4f88176424aac3f6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +35,7 @@
             }
           },
           {
-            "id": "2def31c90e7ff043",
+            "id": "7671e306f0663675",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +50,7 @@
             }
           },
           {
-            "id": "1bea69b914bf9252",
+            "id": "07e0ae3c95dfaf8a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,30 +58,38 @@
             }
           },
           {
-            "id": "40775bf94612d23f",
+            "id": "3cfe9623d4922be9",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "8c53f9ba602628a8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "e3533f0e0cba3757",
+    "id": "0a88e8b22e65002f",
     "type": "split",
     "children": [
       {
-        "id": "d44ed3a0b57f2512",
+        "id": "e4b5fcdf5e3888ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e468bbe8ab3acd99",
+            "id": "eb45369fa1d4ce05",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "0012b9980014bb16",
+            "id": "d2c30c8461e0ffa9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "7b8c2ba95e3840ee",
+            "id": "e3e241c01f7c3bbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,7 +129,7 @@
             }
           },
           {
-            "id": "a5a17fc74223fee2",
+            "id": "e19c35285bf3788e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -145,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b83947db58469323",
+  "active": "8c53f9ba602628a8",
   "lastOpenFiles": [
     "Notes/Anotações - Mateus 3.md",
     "Notes/Anotações - Mateus 2.md",
