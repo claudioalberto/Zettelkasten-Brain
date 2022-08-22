@@ -14,6 +14,7 @@ tags: [type/note, bible-note, Mateus]
 - José foi avisado em sonho por um anjo, do plano de Herodes em tentar matar Jesus, com isso ele fugiu para o Egito.
 	-  Quando Jesus vai para o Egito com os seus pais, se cumpre a profecia de [[Oséias 11#1|Oséias 11.1]]
 		- As vezes situações acontecem em nossa vida, para que possa se cumprir as promessas que Deus tem para a nossa vida. Quando algo acontecer em sua vida, busque ao Senhor para entender o por que isso está ocorrendo, talvez Deus só está querendo cumprir as promessas na sua vida.
+
 **A volta para Israel**
 - Depois do Herodes morreu, um anjo do José para ele voltar para Israel.
 - Mas quando José ouviu que Arquelau que era filho de Herodes estava reinando e por isso teve medo, então ao ser avisado por um anjo foi para Galileia e foi viver em uma cidade chamada Nazaré, com isso cumpriu o que os profetas haviam dito que o Messias seria chamado de Nazareno.

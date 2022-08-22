@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Lição 4 - Segredo Revelado - EBD Adolescentes.md",
+            "file": "Notes/Anotações - Mateus 2.md",
             "mode": "preview",
             "source": false
           }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lição 4 - Segredo Revelado - EBD Adolescentes.md",
+                "file": "Notes/Anotações - Mateus 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Lição 4 - Segredo Revelado - EBD Adolescentes.md",
+                "file": "Notes/Anotações - Mateus 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Lição 4 - Segredo Revelado - EBD Adolescentes.md"
+                "file": "Notes/Anotações - Mateus 2.md"
               }
             }
           }
@@ -145,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c53f9ba602628a8",
+  "active": "b83947db58469323",
   "lastOpenFiles": [
     "Notes/Anotações - Mateus 3.md",
     "Notes/Anotações - Mateus 2.md",
+    "Notes/Anotações - Mateus 1.md",
+    "Notes/Lição 4 - Segredo Revelado - EBD Adolescentes.md",
     "Bible/NVI - Mateus/Mateus 3.md",
     "Bible/NVI - Mateus/Mateus 2.md",
     "Bible/NVI - Mateus/Mateus 1.md",
     "Bible/NVI - Jeremias/Jeremias 31.md",
     "Bible/NVI - Oseías/Oséias 11.md",
-    "Notes/Lutando pela fé.md",
-    "Words/Jesus.md",
-    "Words/Emanuel.md"
+    "Notes/Lutando pela fé.md"
   ]
 }
