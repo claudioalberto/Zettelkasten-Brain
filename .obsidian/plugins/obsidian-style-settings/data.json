@@ -2,5 +2,12 @@
   "primary-ceciliamay@@vault-title__titlebar": false,
   "primary-ceciliamay@@vault-title__file-explorer": false,
   "primary-ceciliamay@@scrollbar-style": "scrollbar__thin",
-  "primary-ceciliamay@@md-bullet-color": "md-bullet-color-faint"
+  "primary-ceciliamay@@md-bullet-color": "md-bullet-color-faint",
+  "things-style@@text": "Courier New",
+  "things-style@@text-editor": "Courier New",
+  "things-style@@font-monospace": "Courier New",
+  "things-style@@font-ui": "Courier New",
+  "things-style@@default-font-color": false,
+  "things-style@@macOS-translucent": true,
+  "things-style@@h6-color": "#9155FF"
 }

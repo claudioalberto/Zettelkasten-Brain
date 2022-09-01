@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b83947db58469323",
+        "id": "0b245309d6bed1e1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Anotações - Mateus 2.md",
-            "mode": "preview",
+            "file": "Bible/NVI-Colossenses/Cl3.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,15 +19,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "81cc77ae4a9318f8",
+    "id": "de8b116346daa4ff",
     "type": "split",
     "children": [
       {
-        "id": "dea91d80ebcd9c1a",
+        "id": "e92afbc386ed3b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "4f88176424aac3f6",
+            "id": "2fc8189abb37c840",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "35bfa13e74af3137",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +43,12 @@
             }
           },
           {
-            "id": "7671e306f0663675",
+            "id": "ecfcf69511f391cd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#glotify",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +58,7 @@
             }
           },
           {
-            "id": "07e0ae3c95dfaf8a",
+            "id": "2916ca75bf8841d4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -58,42 +66,35 @@
             }
           },
           {
-            "id": "3cfe9623d4922be9",
+            "id": "3b11addf9232f807",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
-          },
-          {
-            "id": "8c53f9ba602628a8",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5
   },
   "right": {
-    "id": "0a88e8b22e65002f",
+    "id": "a1f4d914e0ef2377",
     "type": "split",
     "children": [
       {
-        "id": "e4b5fcdf5e3888ad",
+        "id": "22fd201a2253d712",
         "type": "tabs",
         "children": [
           {
-            "id": "eb45369fa1d4ce05",
+            "id": "61a48c81ea108180",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Anotações - Mateus 2.md",
+                "file": "Bible/NVI-Colossenses/Cl3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +106,19 @@
             }
           },
           {
-            "id": "d2c30c8461e0ffa9",
+            "id": "420dc64ca46d6346",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Anotações - Mateus 2.md",
+                "file": "Bible/NVI-Colossenses/Cl3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e3e241c01f7c3bbd",
+            "id": "495398354dd29286",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,33 +129,41 @@
             }
           },
           {
-            "id": "e19c35285bf3788e",
+            "id": "5d65c8d843e6d080",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Anotações - Mateus 2.md"
+                "file": "Bible/NVI-Colossenses/Cl3.md"
               }
             }
+          },
+          {
+            "id": "4aa5705b6a8e0672",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b83947db58469323",
+  "active": "0b245309d6bed1e1",
   "lastOpenFiles": [
-    "Notes/Anotações - Mateus 3.md",
-    "Notes/Anotações - Mateus 2.md",
-    "Notes/Anotações - Mateus 1.md",
-    "Notes/Lição 4 - Segredo Revelado - EBD Adolescentes.md",
-    "Bible/NVI - Mateus/Mateus 3.md",
-    "Bible/NVI - Mateus/Mateus 2.md",
-    "Bible/NVI - Mateus/Mateus 1.md",
-    "Bible/NVI - Jeremias/Jeremias 31.md",
-    "Bible/NVI - Oseías/Oséias 11.md",
-    "Notes/Lutando pela fé.md"
+    "Notes/Devotional - Olhos nas Coisas Celestiais.md",
+    "HomePage.md",
+    "Comments/index.md",
+    "Comments/Comments.md",
+    "Notes/202208222332 - Ele será chamado Nazareno.md",
+    "Daily Notes/2022-08-26.md",
+    "Daily Notes/2022-08-28.md",
+    "Daily Notes/2022-09-01.md",
+    "Daily Notes/2022-08-31.md",
+    "Daily Notes/2021-05-07.md"
   ]
 }

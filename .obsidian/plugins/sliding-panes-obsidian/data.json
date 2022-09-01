@@ -6,7 +6,7 @@
   "disabled": true,
   "rotateHeaders": true,
   "headerAlt": true,
-  "orienation": "mixed",
-  "stackingEnabled": true,
+  "orienation": "sideway",
+  "stackingEnabled": false,
   "smoothAnimation": true
 }

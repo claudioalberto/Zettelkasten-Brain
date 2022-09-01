@@ -4,19 +4,41 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "colorGroups": [
+    {
+      "query": "tag:#bible-note",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#type/bible",
+      "color": {
+        "a": 1,
+        "rgb": 2069293
+      }
+    },
+    {
+      "query": "tag:#type/note tag:#comment",
+      "color": {
+        "a": 1,
+        "rgb": 2143924
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 0.806243881213967,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.804365629601859,
+  "centerStrength": 0.435440008702273,
+  "repelStrength": 8.50864788425976,
+  "linkStrength": 0.739475688023496,
+  "linkDistance": 110,
+  "scale": 0.7501504857830344,
   "close": true
 }

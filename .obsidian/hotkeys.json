@@ -1,11 +1,30 @@
 {
   "file-explorer:new-file": [],
-  "switcher:open": [
+  "switcher:open": [],
+  "darlal-switcher-plus:switcher-plus:open": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "N"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
     }
   ]
 }

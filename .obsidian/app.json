@@ -6,5 +6,8 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Notes"
+  "newFileFolderPath": "Notes",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "Assets"
 }

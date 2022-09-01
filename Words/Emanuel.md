@@ -1,3 +1,7 @@
+---
+tag: [type/definition]
+---
+
 # Emanuel
 
 Um dos nomes de Deus

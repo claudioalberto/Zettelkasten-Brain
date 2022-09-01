@@ -1,0 +1,1 @@
+que traça o provável desenvolvimento futuro ou o resultado de um processo.

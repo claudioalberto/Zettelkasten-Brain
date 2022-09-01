@@ -2,7 +2,7 @@
   "prefix": ">",
   "postfix": "",
   "linkEndVerse": false,
-  "verseOffset": 0,
+  "verseOffset": -1,
   "verseHeadingLevel": 6,
   "useInvisibleLinks": true,
   "newLines": false,

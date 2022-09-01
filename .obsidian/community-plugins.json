@@ -2,7 +2,6 @@
   "templater-obsidian",
   "obsidian-dictionary-plugin",
   "media-extended",
-  "highlightr-plugin",
   "obsidian-plugin-toc",
   "emoji-shortcodes",
   "obsidian-contextual-typography",
@@ -24,5 +23,14 @@
   "advanced-toolbar",
   "customizable-page-header-buttons",
   "quickadd",
-  "obsidian-git"
+  "folder-note-plugin",
+  "homepage",
+  "darlal-switcher-plus",
+  "dbfolder",
+  "highlightr-plugin",
+  "calendar",
+  "obsidian-admonition",
+  "obsidian-excalidraw-plugin",
+  "things-logbook",
+  "obsidian-things-link"
 ]

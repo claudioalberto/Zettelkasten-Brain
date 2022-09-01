@@ -7,9 +7,9 @@
       "showButtons": "both"
     },
     {
-      "id": "switcher:open",
-      "icon": "create-new",
-      "name": "Quick switcher: Open quick switcher",
+      "id": "darlal-switcher-plus:switcher-plus:open",
+      "icon": "add-note-glyph",
+      "name": "Quick Switcher++: Open",
       "showButtons": "both"
     },
     {

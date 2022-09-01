@@ -1,3 +1,7 @@
+---
+tag: [type/definition]
+---
+
 # Jesus
 
 ## Significado:
