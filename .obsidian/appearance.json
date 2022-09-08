@@ -1,9 +1,15 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Prism",
   "theme": "obsidian",
   "translucency": false,
   "baseFontSize": 16,
-  "monospaceFontFamily": "Courier,Avenir Next Condensed,Andale Mono,Courier New",
+  "monospaceFontFamily": "",
   "textFontFamily": "Courier",
-  "interfaceFontFamily": "Courier"
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "custom-admonitions.3ae208",
+    "Ajustes-Claudio",
+    "dashboard",
+    "fullscreen-mode"
+  ]
 }

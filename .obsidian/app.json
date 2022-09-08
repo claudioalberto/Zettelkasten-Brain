@@ -9,5 +9,6 @@
   "newFileFolderPath": "Notes",
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "vimMode": false
 }

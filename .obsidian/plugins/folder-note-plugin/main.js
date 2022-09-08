@@ -114,7 +114,9 @@ var CardBlock = /** @class */ (function () {
                 cardDiv.appendChild(cardEl);
             }
             if (this.col > 0) {
-                cardDiv.setAttr('style', "grid-template-columns: repeat(" + this.col + ", 1fr);");
+                //cardDiv.setAttr('style', "grid-template-columns: repeat(" + this.col + ", 1fr);");
+                cardDiv.setAttr('style', "display: flex; flex-wrap: wrap;");
+
             }
         }
         return cardDiv;

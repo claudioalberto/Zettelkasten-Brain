@@ -2,9 +2,8 @@
 
 ## Devocionais
 ```dataview
-LIST FROM #type/devocional 
+LIST FROM #type/devotional 
 ```
-
 
 ## Anotações Bíblicas
 ```dataview

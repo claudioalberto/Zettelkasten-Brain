@@ -1,0 +1,41 @@
+{
+  "userAdmonitions": {
+    "verse": {
+      "type": "verse",
+      "color": "26, 113, 255",
+      "icon": {
+        "name": "bible",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Verse: ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.0.3",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": false,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": false,
+    "icons": false,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": true,
+  "snippetPath": "custom-admonitions.3ae208"
+}

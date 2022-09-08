@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0b245309d6bed1e1",
+        "id": "212b32f9824c0fd6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bible/NVI-Colossenses/Cl3.md",
-            "mode": "source",
+            "file": "HomePage.md",
+            "mode": "preview",
+            "backlinks": false,
             "source": false
           }
         }
@@ -19,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de8b116346daa4ff",
+    "id": "4e9df1f80c407adc",
     "type": "split",
     "children": [
       {
-        "id": "e92afbc386ed3b4f",
+        "id": "d24cd77790299367",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc8189abb37c840",
+            "id": "ccc8a9472adca0b9",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -35,7 +36,7 @@
             }
           },
           {
-            "id": "35bfa13e74af3137",
+            "id": "95c006e3ca64bb06",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +44,12 @@
             }
           },
           {
-            "id": "ecfcf69511f391cd",
+            "id": "b36f31bcb8be359b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#glotify",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,43 +59,42 @@
             }
           },
           {
-            "id": "2916ca75bf8841d4",
+            "id": "8704d629e1784bf7",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "3b11addf9232f807",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 300
   },
   "right": {
-    "id": "a1f4d914e0ef2377",
+    "id": "45024b11203d85df",
     "type": "split",
     "children": [
       {
-        "id": "22fd201a2253d712",
+        "id": "4b2bde8d06963e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "61a48c81ea108180",
+            "id": "a8d9f4c5bdad042c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "938c8749780f5fa3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/NVI-Colossenses/Cl3.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +106,19 @@
             }
           },
           {
-            "id": "420dc64ca46d6346",
+            "id": "8b4752906e3266b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/NVI-Colossenses/Cl3.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "495398354dd29286",
+            "id": "932cc56ac86726df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,41 +129,33 @@
             }
           },
           {
-            "id": "5d65c8d843e6d080",
+            "id": "454d38a05685f823",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/NVI-Colossenses/Cl3.md"
+                "file": "HomePage.md"
               }
             }
-          },
-          {
-            "id": "4aa5705b6a8e0672",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "0b245309d6bed1e1",
+  "active": "212b32f9824c0fd6",
   "lastOpenFiles": [
-    "Notes/Devotional - Olhos nas Coisas Celestiais.md",
     "HomePage.md",
-    "Comments/index.md",
-    "Comments/Comments.md",
-    "Notes/202208222332 - Ele será chamado Nazareno.md",
-    "Daily Notes/2022-08-26.md",
-    "Daily Notes/2022-08-28.md",
-    "Daily Notes/2022-09-01.md",
-    "Daily Notes/2022-08-31.md",
-    "Daily Notes/2021-05-07.md"
+    "Notes/index.md",
+    "Bible/NVI/index.md",
+    "Notes/12 Erros que cometemos com os filhotes.md",
+    "Bible/index.md",
+    "Bible/Bible.md",
+    "Daily Notes/index.md",
+    "Notes/Há Esperança! - Primeiro Culto - IPCM Jardim Europa.md",
+    "Bible/NVI/1-Old Testament/19-Salmos/Sl1.md",
+    "Bible/NVI/2-New Testament/2-Marcos/Mc8.md"
   ]
 }

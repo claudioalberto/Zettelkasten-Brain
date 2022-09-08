@@ -1,0 +1,15 @@
+.cm-editor .cm-line{
+
+}
+.fullscreen .markdown-preview-sizer>div{
+    width: inherit !important;
+} 
+.fullscreen .cm-editor .cm-line {
+   max-width: calc-width(100% - var(--folding-offset));
+}
+.fullscreen .markdown-preview-sizer{
+   max-width: 100% !important;
+}
+.fullscreen .block-language-ccard .cute-card-band{
+   max-width: 100%;
+}

@@ -5,7 +5,7 @@ tags: [type/note]
 alias:
 ---
 
-# 28-08-22
+# 28-08-22 - Deus falou comigo
 
 Nesse dia em torno das 7h30AM em um momento de oração, Deus falou comigo:
 - Vou eu fazer grandes coisas no seu meio

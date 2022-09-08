@@ -15,9 +15,7 @@
   "obsidian-bible-linker",
   "obsidian-comments",
   "open-vscode",
-  "file-tree-alternative",
   "theme-picker",
-  "sliding-panes-obsidian",
   "dataview",
   "recent-files-obsidian",
   "advanced-toolbar",
@@ -31,6 +29,11 @@
   "calendar",
   "obsidian-admonition",
   "obsidian-excalidraw-plugin",
+  "obsidian-things-link",
+  "block-reference-count",
+  "obsidian-better-command-palette",
   "things-logbook",
-  "obsidian-things-link"
+  "obsidian-day-planner",
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-git"
 ]

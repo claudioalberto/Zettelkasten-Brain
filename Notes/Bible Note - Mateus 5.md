@@ -3,6 +3,7 @@ uuid: 20220826135634
 alias:
 tags: [type/note, bible-note, mateus]
 date_created: 2022-08-26 13:56:34
+cssClass: fullscreen
 ---
 
 # Anotações - Mateus 5

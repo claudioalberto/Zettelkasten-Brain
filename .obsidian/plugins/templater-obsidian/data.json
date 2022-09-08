@@ -25,6 +25,10 @@
     {
       "folder": "Bible",
       "template": "Templates/Bible Chapter NVI.md"
+    },
+    {
+      "folder": "Daily Notes",
+      "template": "Templates/Daily Note (template).md"
     }
   ],
   "syntax_highlighting": true,
@@ -34,5 +38,6 @@
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "enable_ribbon_icon": true
 }

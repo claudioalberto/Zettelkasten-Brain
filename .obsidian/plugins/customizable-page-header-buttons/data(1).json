@@ -1,0 +1,33 @@
+{
+  "enabledButtons": [
+    {
+      "id": "app:go-back",
+      "icon": "left-arrow-with-tail",
+      "name": "Navigate back",
+      "showButtons": "both"
+    },
+    {
+      "id": "darlal-switcher-plus:switcher-plus:open",
+      "icon": "add-note-glyph",
+      "name": "Quick Switcher++: Open",
+      "showButtons": "both"
+    },
+    {
+      "id": "app:reload",
+      "icon": "reset",
+      "name": "Reload app without saving",
+      "showButtons": "both"
+    },
+    {
+      "id": "workspace:close",
+      "icon": "cross",
+      "name": "Close active pane",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": true,
+  "titleLeft": [],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}
